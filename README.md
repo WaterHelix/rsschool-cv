@@ -1,1 +1,1 @@
-# rsschool-cv
+https://WaterHelix.github.io/rsschool-cv/

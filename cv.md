@@ -8,6 +8,8 @@
 
 ## Skills
 
-**English Language:** __C1__
+**English Language:** _C1_
 
 **Can work as a single cell and as a team player**
+
+_**Learning programming in RSSchool**_
